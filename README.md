@@ -1,16 +1,27 @@
-### Hi there 👋
+# SuoJS
 
-<!--
-**SuoJs/SuoJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 介绍
+SuoJS是3D可视化开发平台，是一站式数字孪生综合服务平台；提供三维场景搭建工具平台。 平台致力于帮助开发者低门槛、高效率开发数字孪生可视化应用。
 
-Here are some ideas to get you started:
+#### 系统设计截图
+![图片](https://user-images.githubusercontent.com/104497686/165493088-34c20ab6-a559-41bd-9001-119f7f7c450d.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![图片](https://user-images.githubusercontent.com/104497686/165493149-ac49a5c4-95b1-4141-8a62-7db820541cb4.png)
+
+#### 系统现有功能
+1. 模型拖拽添加到场景
+2. 在场景中缩放、旋转、移动模型
+3. 动态添加灯光
+4. 模型结构树展示
+5. 镜面、水面效果
+6. 场景后期处理（泛光、颜色饱和度）
+7. 雨、雪效果
+8. 故障火动画
+
+#### 接下来的工作
+1. 模型路径动画
+2. 天空盒选择
+3. 弹框标注
+4. 模型动画定位
+5. 接口数据绑定
+
